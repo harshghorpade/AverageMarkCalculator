@@ -2,7 +2,7 @@
 Average Mark Calculator is a simple programming question that can be asked in interview
 
 ## Programming Question
-Write a C++ program to calculate average marks of the first student in the given list. Input will be the text file containing roll number, subject name and the marks. Write the result in the output.txt file. Make use of STL data structures if necessory to write the optimal code.
+Write a C++ program to calculate average marks of the first student in the given list. Input will be the text file containing roll number, subject name and the marks. Write the result in the output.txt file. Make use of STL data structures if necessary to write the optimal code.
 
 ### Sample input.txt file
 ```
